@@ -1,0 +1,5 @@
+npm init -y
+
+npm install express mongoose nodemon jsonwebtoken dotenv cors multer
+
+npm run server
